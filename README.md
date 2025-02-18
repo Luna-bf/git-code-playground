@@ -1,1 +1,1 @@
-Git lessons from OpenClassrooms.
+- Git lessons from OpenClassrooms.
